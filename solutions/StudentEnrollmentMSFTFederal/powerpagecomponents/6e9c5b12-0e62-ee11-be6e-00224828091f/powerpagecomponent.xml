@@ -1,0 +1,24 @@
+<powerpagecomponent powerpagecomponentid="6e9c5b12-0e62-ee11-be6e-00224828091f">
+  <content>{
+  "append": true,
+  "appendto": true,
+  "create": true,
+  "delete": true,
+  "entitylogicalname": "cr873_ebcistudentenrollment",
+  "entityname": "Student Application",
+  "read": true,
+  "scope": 756150000,
+  "write": true,
+  "adx_entitypermission_webrole": [
+    "123c665f-6661-ee11-be6e-00224828091f"
+  ]
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Student Application</name>
+  <powerpagecomponenttype>18</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

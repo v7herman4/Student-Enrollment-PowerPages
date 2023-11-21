@@ -1,0 +1,25 @@
+<powerpagecomponent powerpagecomponentid="e73b5608-0b63-ee11-be6e-0022482a998f">
+  <content>{
+  "adddescription": false,
+  "attributelogicalname": "cr873_attachmentstoggle",
+  "cssclass": "hidden-field",
+  "descriptionposition": 100000000,
+  "entityform": "f28f021c-6b47-4012-84a3-06668bb02915",
+  "entityformforcreate": "f28f021c-6b47-4012-84a3-06668bb02915",
+  "fieldisrequired": false,
+  "ignoredefaultvalue": false,
+  "randomizeoptionsetvalues": false,
+  "sectionname": "tab_2_section_1",
+  "setvalueonsave": false,
+  "type": 100000000,
+  "useattributedescriptionproperty": true
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Student Application cr873_attachmentstoggle</name>
+  <powerpagecomponenttype>16</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

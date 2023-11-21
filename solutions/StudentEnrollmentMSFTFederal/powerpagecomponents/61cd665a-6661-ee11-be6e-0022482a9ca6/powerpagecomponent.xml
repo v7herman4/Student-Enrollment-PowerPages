@@ -1,0 +1,23 @@
+<powerpagecomponent powerpagecomponentid="61cd665a-6661-ee11-be6e-0022482a9ca6">
+  <content>{
+  "append": true,
+  "appendto": false,
+  "create": true,
+  "delete": false,
+  "entitylogicalname": "annotation",
+  "entityname": "ASP Contacts_Attachment",
+  "parententitypermission": "c09e1f5c-6661-ee11-be6e-0022482a9f76",
+  "parentrelationship": "contact_Annotations",
+  "read": false,
+  "scope": 756150003,
+  "write": false
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>ASP Contacts_Attachment</name>
+  <powerpagecomponenttype>18</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

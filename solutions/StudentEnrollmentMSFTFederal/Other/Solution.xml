@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ImportExportXml version="9.2.23103.264" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SolutionManifest>
+    <UniqueName>StudentEnrollmentMSFTFederal</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="Student Enrollment MSFT Federal" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions />
+    <Version>1.0.0.0</Version>
+    <Managed>0</Managed>
+    <Publisher>
+      <UniqueName>microsoftfederal</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="Microsoft Federal" languagecode="1033" />
+      </LocalizedNames>
+      <Descriptions />
+      <EMailAddress xsi:nil="true"></EMailAddress>
+      <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
+      <CustomizationPrefix>msfed</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>43247</CustomizationOptionValuePrefix>
+      <Addresses>
+        <Address>
+          <AddressNumber>1</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+        <Address>
+          <AddressNumber>2</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+      </Addresses>
+    </Publisher>
+    <RootComponents>
+      <RootComponent type="1" schemaName="cr873_ebcistudentenrollment" behavior="0" />
+      <RootComponent type="1" schemaName="cr873_studentenrollment" behavior="0" />
+      <RootComponent type="29" id="{049b5a02-5f61-ee11-be6e-0022482a9f76}" behavior="0" />
+      <RootComponent type="62" schemaName="cr873_TribalServicesStudentEnrollment" behavior="0" />
+      <RootComponent type="80" schemaName="cr873_TribalServicesStudentEnrollment" behavior="0" />
+      <RootComponent type="9" schemaName="cr873_community" behavior="0" />
+      <RootComponent type="9" schemaName="cr873_fullorparttime" behavior="0" />
+      <RootComponent type="9" schemaName="cr873_previousassistanceyes" behavior="0" />
+      <RootComponent type="9" schemaName="cr873_semesterapplyingfor" behavior="0" />
+      <RootComponent type="9" schemaName="cr873_typeofassistancerequested" behavior="0" />
+    </RootComponents>
+    <MissingDependencies>
+      <MissingDependency>
+        <Required type="1" schemaName="msdynce_course" displayName="Course" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{59cd665a-6661-ee11-be6e-0022482a9ca6}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdynce_course" displayName="Course" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{5acd665a-6661-ee11-be6e-0022482a9ca6}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdynce_course" displayName="Course" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{5fcd665a-6661-ee11-be6e-0022482a9ca6}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdynce_course" displayName="Course" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{c29e1f5c-6661-ee11-be6e-0022482a9f76}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdynce_course" displayName="Course" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{ca3b665f-6661-ee11-be6e-00224828091f}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdynce_course" displayName="Course" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{cba6ba5e-6661-ee11-be6e-0022482803f8}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdynce_course" displayName="Course" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{cd3b665f-6661-ee11-be6e-00224828091f}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdynce_registration" displayName="Registration" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{ba9e1f5c-6661-ee11-be6e-0022482a9f76}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdynce_registration" displayName="Registration" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{bf9e1f5c-6661-ee11-be6e-0022482a9f76}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdynce_registration" displayName="Registration" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{c93b665f-6661-ee11-be6e-00224828091f}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="26" schemaName="Active Registrations" displayName="Active Registrations" parentSchemaName="msdynce_registration" parentDisplayName="Registration" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)" id="{27a56ba6-0646-4308-8fa9-8169c504b3a4}">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{c93b665f-6661-ee11-be6e-00224828091f}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="26" schemaName="Upcoming Courses" displayName="Upcoming Courses" parentSchemaName="msdynce_course" parentDisplayName="Course" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)" id="{09163c22-0f11-ec11-b6e6-000d3a57e572}">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{ca3b665f-6661-ee11-be6e-00224828091f}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="60" displayName="Edit child profile" parentDisplayName="Contact" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)" id="{0e511009-f625-ec11-b6e5-002248252fb3}">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{57cd665a-6661-ee11-be6e-0022482a9ca6}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="60" displayName="Portal Course Form" parentDisplayName="Course" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)" id="{5a883c20-fa2e-46fc-937d-994d3050fd50}">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{59cd665a-6661-ee11-be6e-0022482a9ca6}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="60" displayName="Portal Course Form" parentDisplayName="Course" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)" id="{5a883c20-fa2e-46fc-937d-994d3050fd50}">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{5acd665a-6661-ee11-be6e-0022482a9ca6}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="60" displayName="Registration unregister form" parentDisplayName="Registration" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)" id="{7dfe46c1-5821-ec11-b6e6-000d3a572f09}">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{ba9e1f5c-6661-ee11-be6e-0022482a9f76}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="60" displayName="Add child profile" parentDisplayName="Contact" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)" id="{840cdb74-381c-ec11-b6e6-000d3a1b2099}">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{cca6ba5e-6661-ee11-be6e-0022482803f8}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="60" displayName="simple contact us form" parentDisplayName="Feedback" solution="PowerPages_RuntimeCore (1.0.2308.4)" id="{8928eb8d-7cbe-4d7d-8bcb-020d03418fb7}" />
+        <Dependent type="powerpagecomponent" id="{51066259-6661-ee11-be6e-00224828091f}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="60" displayName="Delete a course form" parentDisplayName="Course" solution="PowerPages_ProgramRegistrationCore_V2 (2.0.2306.2)" id="{dfc35faa-8d15-ec11-b6e6-000d3a18f5c4}">
+          <package>PowerPages_ProgramRegistration_V2 (2.0.2306.4)</package>
+        </Required>
+        <Dependent type="powerpagecomponent" id="{cba6ba5e-6661-ee11-be6e-0022482803f8}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="61" schemaName="msdyn_/Images/AppModule_Default_Icon.png" displayName="msdyn_/Images/AppModule_Default_Icon.png" solution="AppModuleWebResources (2.5)" />
+        <Dependent type="80" schemaName="cr873_TribalServicesStudentEnrollment" displayName="Tribal Services - Student Enrollment" />
+      </MissingDependency>
+    </MissingDependencies>
+  </SolutionManifest>
+</ImportExportXml>

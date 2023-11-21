@@ -1,0 +1,25 @@
+<powerpagecomponent powerpagecomponentid="bf9e1f5c-6661-ee11-be6e-0022482a9f76">
+  <content>{
+  "append": true,
+  "appendto": true,
+  "create": true,
+  "delete": false,
+  "entitylogicalname": "msdynce_registration",
+  "entityname": "ASP C2 Registration",
+  "read": true,
+  "scope": 756150000,
+  "write": true,
+  "adx_entitypermission_webrole": [
+    "123c665f-6661-ee11-be6e-00224828091f",
+    "b6f67061-6661-ee11-be6e-0022482a91f4"
+  ]
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>ASP C2 Registration</name>
+  <powerpagecomponenttype>18</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

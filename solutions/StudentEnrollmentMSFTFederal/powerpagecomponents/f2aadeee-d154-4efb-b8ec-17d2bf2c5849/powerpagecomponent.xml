@@ -1,0 +1,47 @@
+<powerpagecomponent powerpagecomponentid="f2aadeee-d154-4efb-b8ec-17d2bf2c5849">
+  <content>{
+  "appendquerystring": false,
+  "associatecurrentportaluser": false,
+  "attachfile": false,
+  "attachfileallowmultiple": false,
+  "attachfilerequired": false,
+  "attachfilerestrictaccept": false,
+  "autogeneratesteps": false,
+  "captcharequired": false,
+  "entityname": "cr873_studentenrollment",
+  "entitypermissionsenabled": true,
+  "entitysourcetype": 756150001,
+  "forceallfieldsrequired": false,
+  "formname": "Student Enrollment - Attachments",
+  "geolocation_displaymap": false,
+  "geolocation_enabled": false,
+  "geolocation_maptype": 756150000,
+  "hideformonsuccess": true,
+  "mode": 100000001,
+  "onsuccess": 756150001,
+  "populatereferenceentitylookupfield": false,
+  "portaluserlookupattributeisactivityparty": false,
+  "recommendedfieldsrequired": false,
+  "recordidquerystringparametername": "id",
+  "recordsourceallowcreateonnull": false,
+  "redirecturlappendentityidquerystring": false,
+  "redirectwebpage": "abf67061-6661-ee11-be6e-0022482a91f4",
+  "referenceentityshowreadonlyform": false,
+  "referencequerystringisprimarykey": true,
+  "renderwebresourcesinline": false,
+  "setentityreference": false,
+  "showcaptchaforauthenticatedusers": false,
+  "showownerfields": false,
+  "showunsupportedfields": false,
+  "tooltipenabled": false,
+  "validationsummarylinksenabled": true
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Student Enrollment - Attachments</name>
+  <powerpagecomponenttype>15</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

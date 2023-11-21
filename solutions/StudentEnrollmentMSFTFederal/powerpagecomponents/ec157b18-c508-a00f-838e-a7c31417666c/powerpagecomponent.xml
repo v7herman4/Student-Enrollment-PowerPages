@@ -1,0 +1,15 @@
+<powerpagecomponent powerpagecomponentid="ec157b18-c508-a00f-838e-a7c31417666c">
+  <content>{
+  "right": 2,
+  "scope": 1,
+  "webpageid": "10499f89-07cb-1c83-cd9d-a419da02286c"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Restrict Read on Student Application</name>
+  <powerpagecomponenttype>10</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>1</statecode>
+  <statuscode>2</statuscode>
+</powerpagecomponent>

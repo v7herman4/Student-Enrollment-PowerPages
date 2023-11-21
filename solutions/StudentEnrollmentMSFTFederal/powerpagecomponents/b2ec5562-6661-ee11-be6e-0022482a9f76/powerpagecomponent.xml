@@ -1,0 +1,13 @@
+<powerpagecomponent powerpagecomponentid="b2ec5562-6661-ee11-be6e-0022482a9f76">
+  <content>{
+  "value": "Deadline"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>ASP/Course/Form/Validation/Field/Deadline</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

@@ -1,0 +1,33 @@
+<powerpagecomponent powerpagecomponentid="ce62e260-6661-ee11-be6e-0022482a998f">
+  <content>{
+  "copy": "&lt;div class=\"row sectionBlockLayout\" style=\"display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; text-align: left; min-height: 100px;\"&gt;\r\n      &lt;div class=\"container\" style=\"display: flex; flex-wrap: wrap;\"&gt;\r\n        &lt;div class=\"col-md-12 columnBlockLayout\" style=\"display: flex; flex-direction: column;\"&gt;&lt;/div&gt;\r\n      &lt;/div&gt;\r\n    &lt;/div&gt;\r\n    ",
+  "displayorder": 10,
+  "enablerating": false,
+  "enabletracking": false,
+  "excludefromsearch": false,
+  "feedbackpolicy": 756150000,
+  "hiddenfromsitemap": false,
+  "isroot": true,
+  "pagetemplateid": "63cd665a-6661-ee11-be6e-0022482a9ca6",
+  "parentpageid": "c9ec5562-6661-ee11-be6e-0022482a9f76",
+  "partialurl": "admin-home",
+  "publishingstateid": "9562e260-6661-ee11-be6e-0022482a998f",
+  "sharedpageconfiguration": true,
+  "summary": "&lt;p&gt;This is sample landing page for you to start building your website&lt;/p&gt;",
+  "title": "[Admin] Courses Home"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>[Admin] Courses Home</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <searchcontent>[Admin] Courses Home&lt;div class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; text-align: left; min-height: 100px;"&gt;
+      &lt;div class="container" style="display: flex; flex-wrap: wrap;"&gt;
+        &lt;div class="col-md-12 columnBlockLayout" style="display: flex; flex-direction: column;"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    [Admin] Courses Home</searchcontent>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

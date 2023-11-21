@@ -1,0 +1,18 @@
+<powerpagecomponent powerpagecomponentid="40066259-6661-ee11-be6e-00224828091f">
+  <content>{
+  "display_name": "Filter/Type",
+  "type": 756150000,
+  "value": "Type"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Filter/Type</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>b8f67061-6661-ee11-be6e-0022482a91f4</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

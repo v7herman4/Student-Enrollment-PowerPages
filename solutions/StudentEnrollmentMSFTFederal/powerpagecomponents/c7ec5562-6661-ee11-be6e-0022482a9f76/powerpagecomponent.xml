@@ -1,0 +1,42 @@
+<powerpagecomponent powerpagecomponentid="c7ec5562-6661-ee11-be6e-0022482a9f76">
+  <content>{
+  "copy": "{% include 'Portal Web API Wrapper' %}\r\n&lt;div class=\"row sectionBlockLayout\" style=\"display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; text-align: left; min-height: 40px;\"&gt;\r\n  &lt;div class=\"container\" style=\"display: flex; flex-wrap: wrap;\"&gt;\r\n    &lt;div class=\"col-md-12 columnBlockLayout back-container\" style=\"flex-grow: 1; min-width: 300px; display: flex; flex-direction: column;\"&gt;\r\n      &lt;a href=\"/admin-home\"&gt;&lt;img src=\"/back-arrow.svg\" alt=\"back arrow\" class=\"back-arrow\" style=\"max-width: 100%;\"&gt;&lt;span&gt;Back to my courses&lt;/span&gt;&lt;/a&gt;\r\n      {% include 'RegistrationSuccessForm' %}\r\n    &lt;/div&gt;\r\n  &lt;/div&gt;\r\n&lt;/div&gt;",
+  "customcss": "div#dateTimeType {\r\n    display: flex;\r\n    flex-direction: row;\r\n    justify-content: flex-start;\r\n    align-items: flex-start;\r\n}\r\ndiv#other-info-lg\r\n{\r\n    padding-left:5px;\r\n}\r\ndiv#other-info-sm\r\n{\r\npadding-left:5px;\r\n}\r\n#dateTimeType .col-sm-7\r\n{\r\n    padding:0px;\r\n}\r\n.page-title\r\n{\r\n    text-align:center;\r\n}",
+  "customjavascript": "let selectedAttendees = [];\r\nlet registrationCounter = 0;\r\n\r\n \r\n\r\n$(document).ready(function(){\r\n\r\n    let courseId = \"{{request.params['id'] | xml_escape}}\";\r\n    \r\n    var attendeeid= \"{{user.contactid}}\";\r\n    var selector='.contactimg';\r\n    loadImage(attendeeid,selector);   \r\n\r\n    //Get the image\r\n    webapi.safeAjax({\r\n        type: \"GET\",\r\n        url: \"/_api/msdynce_courses({{request.params['id']}})/msdynce_entityimage/?size=full\",\r\n        contentType: \"application/json\",\r\n        success: function (res, status) {\r\n            if (res){\r\n                imgBaseString = res.value;\r\n                $(\".image-view\").attr(\"src\", \"data:image/png;base64,\" + imgBaseString);\r\n            }\r\n        }\r\n    });\r\n\r\n    $(\".card-body span.date\").each(function(){\r\n        var date = moment.utc(this.innerHTML);\r\n        $(this).text(moment(date).local().format(\"MMMM DD\"));\r\n    });\r\n\r\n    $(\".card-body span.time\").each(function(){\r\n        var time = moment.utc(this.innerHTML);\r\n        $(this).text(moment(time).local().format(\"hh:mm a\"));\r\n    });\r\n\r\n      \r\n\r\n    function loadImage(objectid, selector){\r\n      var imgURL = \"\";\r\n      var query=\"/_api/contacts(\" + objectid + \")?$select=entityimage\";\r\n      webapi.safeAjax({\r\n      type: \"GET\",\r\n      url: query,\r\n      contentType: \"application/json\",\r\n      success: function (res, status) {\r\n          if (res.entityimage){\r\n            var imgBaseString = res.entityimage;\r\n            var imgHTML = \"\";\r\n            imgURL = \"data:image/png;base64,\" + imgBaseString;\r\n            $(selector).attr(\"src\", imgURL);\r\n          }   \r\n        }\r\n      });\r\n    }\r\n\r\n    \r\n});",
+  "displayorder": 12,
+  "enablerating": false,
+  "enabletracking": false,
+  "excludefromsearch": false,
+  "feedbackpolicy": 756150000,
+  "hiddenfromsitemap": false,
+  "isroot": false,
+  "pagetemplateid": "63cd665a-6661-ee11-be6e-0022482a9ca6",
+  "parentpageid": "c9ec5562-6661-ee11-be6e-0022482a9f76",
+  "partialurl": "registration-success",
+  "publishingstateid": "9562e260-6661-ee11-be6e-0022482a998f",
+  "rootwebpageid": "248bbe60-6661-ee11-be6e-0022482a9ca6",
+  "sharedpageconfiguration": true,
+  "summary": "&lt;p&gt;This is sample landing page for you to start building your website&lt;/p&gt;",
+  "title": "Registration Success"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Registration Success</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>b8f67061-6661-ee11-be6e-0022482a91f4</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <searchcontent>Registration Success{% include 'Portal Web API Wrapper' %}
+&lt;div class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; text-align: left; min-height: 40px;"&gt;
+  &lt;div class="container" style="display: flex; flex-wrap: wrap;"&gt;
+    &lt;div class="col-md-12 columnBlockLayout back-container" style="flex-grow: 1; min-width: 300px; display: flex; flex-direction: column;"&gt;
+      &lt;a href="/admin-home"&gt;&lt;img src="/back-arrow.svg" alt="back arrow" class="back-arrow" style="max-width: 100%;"&gt;&lt;span&gt;Back to my courses&lt;/span&gt;&lt;/a&gt;
+      {% include 'RegistrationSuccessForm' %}
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;Registration Success</searchcontent>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>
