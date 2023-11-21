@@ -1,0 +1,27 @@
+<powerpagecomponent powerpagecomponentid="10499f89-07cb-1c83-cd9d-a419da02286c">
+  <content>{
+  "displayorder": 2,
+  "enablerating": false,
+  "enabletracking": false,
+  "excludefromsearch": false,
+  "feedbackpolicy": 756150000,
+  "hiddenfromsitemap": false,
+  "isroot": true,
+  "pagetemplateid": "63cd665a-6661-ee11-be6e-0022482a9ca6",
+  "parentpageid": "c9ec5562-6661-ee11-be6e-0022482a9f76",
+  "partialurl": "Student-Application",
+  "publishingstateid": "9562e260-6661-ee11-be6e-0022482a998f",
+  "sharedpageconfiguration": false,
+  "summary": "&lt;p&gt;This is a sample landing page designed to be a starting point for your website&lt;/p&gt;",
+  "title": "Student Application"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Student Application</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <searchcontent>Student ApplicationStudent Application</searchcontent>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

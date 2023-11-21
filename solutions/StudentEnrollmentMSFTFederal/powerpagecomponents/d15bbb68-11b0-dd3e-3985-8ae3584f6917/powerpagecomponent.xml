@@ -1,0 +1,21 @@
+<powerpagecomponent powerpagecomponentid="d15bbb68-11b0-dd3e-3985-8ae3584f6917">
+  <content>{
+  "disablepagevalidation": false,
+  "displayimageonly": false,
+  "displayorder": 6,
+  "displaypagechildlinks": false,
+  "openinnewwindow": false,
+  "pageid": "10499f89-07cb-1c83-cd9d-a419da02286c",
+  "publishingstateid": "9562e260-6661-ee11-be6e-0022482a998f",
+  "robotsfollowlink": true,
+  "weblinksetid": "a5f67061-6661-ee11-be6e-0022482a91f4"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Student Application</name>
+  <powerpagecomponenttype>5</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

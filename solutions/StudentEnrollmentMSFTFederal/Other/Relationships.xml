@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment" />
+  <EntityRelationship Name="business_unit_cr873_studentenrollment" />
+  <EntityRelationship Name="FileAttachment_cr873_StudentEnrollment_cr873_CollegeAcceptanceLetter" />
+  <EntityRelationship Name="FileAttachment_cr873_StudentEnrollment_cr873_CopyofSocialSecurityCard" />
+  <EntityRelationship Name="FileAttachment_cr873_StudentEnrollment_cr873_DriversLicenseorPhotoID" />
+  <EntityRelationship Name="FileAttachment_cr873_StudentEnrollment_cr873_FAFSAStudentAidReportSAR" />
+  <EntityRelationship Name="FileAttachment_cr873_StudentEnrollment_cr873_ProofofScholarshipApplication" />
+  <EntityRelationship Name="FileAttachment_cr873_StudentEnrollment_cr873_Transcript" />
+  <EntityRelationship Name="FileAttachment_cr873_StudentEnrollment_cr873_W9Form" />
+  <EntityRelationship Name="lk_cr873_ebcistudentenrollment_activestageid" />
+  <EntityRelationship Name="lk_cr873_ebcistudentenrollment_createdby" />
+  <EntityRelationship Name="lk_cr873_ebcistudentenrollment_modifiedby" />
+  <EntityRelationship Name="lk_cr873_ebcistudentenrollment_processid" />
+  <EntityRelationship Name="lk_cr873_studentenrollment_createdby" />
+  <EntityRelationship Name="lk_cr873_studentenrollment_modifiedby" />
+  <EntityRelationship Name="organization_cr873_ebcistudentenrollment" />
+  <EntityRelationship Name="owner_cr873_studentenrollment" />
+  <EntityRelationship Name="team_cr873_studentenrollment" />
+  <EntityRelationship Name="user_cr873_studentenrollment" />
+</EntityRelationships>

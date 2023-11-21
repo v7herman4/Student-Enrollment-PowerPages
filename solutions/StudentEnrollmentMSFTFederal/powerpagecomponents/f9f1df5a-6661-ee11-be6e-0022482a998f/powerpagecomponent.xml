@@ -1,0 +1,18 @@
+<powerpagecomponent powerpagecomponentid="f9f1df5a-6661-ee11-be6e-0022482a998f">
+  <content>{
+  "display_name": "Error/Future DOB",
+  "type": 756150000,
+  "value": "Date of birth can't be a future date.\r\n"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Error/Future DOB</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>b8f67061-6661-ee11-be6e-0022482a91f4</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

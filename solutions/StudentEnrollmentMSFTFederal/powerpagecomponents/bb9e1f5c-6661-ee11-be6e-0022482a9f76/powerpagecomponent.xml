@@ -1,0 +1,22 @@
+<powerpagecomponent powerpagecomponentid="bb9e1f5c-6661-ee11-be6e-0022482a9f76">
+  <content>{
+  "adddescription": false,
+  "attributelogicalname": "firstname",
+  "descriptionposition": 100000000,
+  "entityform": "57cd665a-6661-ee11-be6e-0022482a9ca6",
+  "fieldisrequired": true,
+  "ignoredefaultvalue": false,
+  "randomizeoptionsetvalues": false,
+  "setvalueonsave": false,
+  "type": 100000000,
+  "useattributedescriptionproperty": true
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Edit Attendee firstname</name>
+  <powerpagecomponenttype>16</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>
