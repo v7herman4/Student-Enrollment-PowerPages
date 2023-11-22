@@ -14,7 +14,7 @@ on:
       environment_url:
         description: "http endpoint of your Dataverse environment"
         required: true
-        default: "https://[your-env].crm.dynamics.com"
+        default: 'https://orgfa52ad43.crm.dynamics.com/'
       source_branch:
         description: "source branch"
         required: true
