@@ -6,11 +6,8 @@ on:
       solution_name:
         description: "name of the Solution in Dataverse environment"
         required: true
-        default: yoursolutionname
-      # environment_id:
-      #   description: "GUID of your Dataverse environment"
-      #   required: true
-      #   default: "GUID-OF-YOUR-ENVIRONMENT"
+        default: 'StudentEnrollmentMSFTFederal'
+
       environment_url:
         description: "http endpoint of your Dataverse environment"
         required: true
