@@ -33,12 +33,12 @@ on:
         description: 'The client id'
         type: string
         required: true
-        default: ‘<ClientID>’
+        default: '89dc018b-eb3c-4563-b4d7-e1ac8327bf5a'
       TENANT_ID:
         description: 'The tenant id'
         type: string
         required: true
-        default: ‘<TenantID>’ 
+        default: '8b46d3b4-b4ac-4e33-8e31-1ee00f0d9aab'
  
 jobs:
   convert-to-managed:
