@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedqueries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <savedquery>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>0</CanBeDeleted>
+    <isquickfindquery>0</isquickfindquery>
+    <isprivate>0</isprivate>
+    <isdefault>1</isdefault>
+    <savedqueryid>{e6d3a692-cc27-4979-a0fa-0bc3808d3131}</savedqueryid>
+    <layoutxml>
+      <grid name="resultset" jump="cr873_name" select="1" icon="1" preview="1">
+        <row name="result" id="cr873_studentenrollmentid">
+          <cell name="cr873_name" width="300" />
+          <cell name="cr873_firstname" width="103" />
+          <cell name="cr873_lastname" width="102" />
+          <cell name="cr873_enrollmentnumber" width="153" />
+          <cell name="cr873_semesterapplyingfor" width="171" />
+          <cell name="cr873_semesteryear" width="121" />
+          <cell name="cr873_fullorparttime" width="137" />
+          <cell name="cr873_typeofassistancerequested" width="209" />
+          <cell name="cr873_community" width="107" />
+          <cell name="cr873_previousassistancereceivedfrometp" width="274" />
+          <cell name="cr873_collegeinstitutionyouplanonattended" width="272" />
+          <cell name="cr873_summeryouthcollegeexperienceprogram" width="290" />
+        </row>
+      </grid>
+    </layoutxml>
+    <querytype>0</querytype>
+    <fetchxml>
+      <fetch version="1.0" mapping="logical">
+        <entity name="cr873_studentenrollment">
+          <attribute name="cr873_studentenrollmentid" />
+          <attribute name="cr873_name" />
+          <order attribute="cr873_name" descending="false" />
+          <filter type="and">
+            <condition attribute="statecode" operator="eq" value="0" />
+          </filter>
+          <attribute name="cr873_firstname" />
+          <attribute name="cr873_lastname" />
+          <attribute name="cr873_enrollmentnumber" />
+          <attribute name="cr873_semesterapplyingfor" />
+          <attribute name="cr873_semesteryear" />
+          <attribute name="cr873_fullorparttime" />
+          <attribute name="cr873_typeofassistancerequested" />
+          <attribute name="cr873_community" />
+          <attribute name="cr873_previousassistancereceivedfrometp" />
+          <attribute name="cr873_collegeinstitutionyouplanonattended" />
+          <attribute name="cr873_summeryouthcollegeexperienceprogram" />
+        </entity>
+      </fetch>
+    </fetchxml>
+    <IntroducedVersion>1.0</IntroducedVersion>
+    <LocalizedNames>
+      <LocalizedName description="Active Student Enrollments" languagecode="1033" />
+    </LocalizedNames>
+  </savedquery>
+</savedqueries>

@@ -1,0 +1,15 @@
+<powerpagesites>
+  <powerpagesite powerpagesiteid="d8ec5562-6661-ee11-be6e-0022482a9f76">
+    <content>{
+  "defaultlanguage": "b8f67061-6661-ee11-be6e-0022482a91f4",
+  "footerwebtemplateid": "deec5562-6661-ee11-be6e-0022482a9f76",
+  "headerwebtemplateid": "3ed5aa65-6661-ee11-be6e-00224828091f",
+  "website_language": 1033
+}</content>
+    <datamodelversion>2.0</datamodelversion>
+    <iscustomizable>1</iscustomizable>
+    <name>Student Enrollment - studentenrollmentdemo</name>
+    <statecode>0</statecode>
+    <statuscode>1</statuscode>
+  </powerpagesite>
+</powerpagesites>

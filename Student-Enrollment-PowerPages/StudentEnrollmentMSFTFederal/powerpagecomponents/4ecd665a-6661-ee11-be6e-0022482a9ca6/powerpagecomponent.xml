@@ -1,0 +1,18 @@
+<powerpagecomponent powerpagecomponentid="4ecd665a-6661-ee11-be6e-0022482a9ca6">
+  <content>{
+  "display_name": "Filter/Season/Spring",
+  "type": 756150000,
+  "value": "Spring"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Filter/Season/Spring</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>b8f67061-6661-ee11-be6e-0022482a91f4</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

@@ -1,0 +1,23 @@
+<powerpagecomponent powerpagecomponentid="0c74a157-2155-421d-8bec-a3d8445de52b">
+  <content>{
+  "authenticationrequired": false,
+  "editexistingrecordpermitted": true,
+  "multiplerecordsperuserpermitted": true,
+  "progressindicatorenabled": true,
+  "progressindicatorignorelaststep": false,
+  "progressindicatorposition": 756150000,
+  "progressindicatorprependstepnum": false,
+  "progressindicatortype": 756150000,
+  "savechangeswarningonclose": false,
+  "startnewsessiononload": false,
+  "startstep": "68ec3340-ee18-4dff-829e-81f2460ffd20"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Student Application Details &amp; Upload</name>
+  <powerpagecomponenttype>19</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

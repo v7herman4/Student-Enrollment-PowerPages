@@ -1,0 +1,18 @@
+<powerpagecomponent powerpagecomponentid="a89e1f5c-6661-ee11-be6e-0022482a9f76">
+  <content>{
+  "display_name": "Login/ACS/Heading",
+  "type": 756150000,
+  "value": "Sign in to Program Registration"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Login/ACS/Heading</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>b8f67061-6661-ee11-be6e-0022482a91f4</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>
