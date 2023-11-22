@@ -1,6 +1,3 @@
-# Student-Enrollment-PowerPages
-Student enrollment Power Pages
-Power Pages
 
 # Student Enrollment Install and Configuration Instructions
 
