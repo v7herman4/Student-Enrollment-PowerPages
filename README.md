@@ -40,9 +40,11 @@ Note: we will NOT be using this site created with the Program Registration templ
 
 Wait until the Starter Site has finished getting ready.
 
-![](RackMultipart20231122-1-6vu4f2_html_2daf5e9d89baefa9.png)
+![image](https://github.com/v7herman4/Student-Enrollment-PowerPages/assets/89024016/1b3974e3-790c-4973-a821-388f1502c03e)
 
-![](RackMultipart20231122-1-6vu4f2_html_846e32693c982740.png)
+![image](https://github.com/v7herman4/Student-Enrollment-PowerPages/assets/89024016/b2ba8b6d-9423-4e07-8063-a557f3e0faa1)
+
+
 
 ## Install the Student Enrollment Site Solution from GitHub
 
@@ -58,7 +60,8 @@ Download and import the following solution: _StudentEnrollmentMSFTFederal\_manag
 
 Once the import of the solution is complete, find the _Student Enrollment_ site in the list of Inactive Sites.
 
-![](RackMultipart20231122-1-6vu4f2_html_ef9c6439102358fc.png)
+![image](https://github.com/v7herman4/Student-Enrollment-PowerPages/assets/89024016/a945ac65-fad0-457d-9059-5ee196fede78)
+
 
 **Reactivate the Site**
 
