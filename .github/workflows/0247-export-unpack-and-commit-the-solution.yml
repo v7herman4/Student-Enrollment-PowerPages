@@ -1,4 +1,4 @@
-name: Export unpack and commit the solution
+name: 0247 Export unpack and commit the solution
 run-name: Getting ${{ github.event.inputs.solution_name }} solution from environment ${{ github.event.inputs.environment_url }} environment and committing
 on:
   workflow_dispatch:
