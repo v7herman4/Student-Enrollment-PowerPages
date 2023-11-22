@@ -45,10 +45,9 @@ Wait until the Starter Site has finished getting ready.
 ![image](https://github.com/v7herman4/Student-Enrollment-PowerPages/assets/89024016/b2ba8b6d-9423-4e07-8063-a557f3e0faa1)
 
 
-
 ## Install the Student Enrollment Site Solution from GitHub
 
-### Install Base Dataverse Solution
+### Install Portal Solution
 
 From the following location:
 
@@ -56,16 +55,12 @@ From the following location:
 
 Download and import the following solution: _StudentEnrollmentMSFTFederal\_managed.zip_
 
-### Create Student Enrollment Site
+### Activate the Student Enrollment Site
 
-Once the import of the solution is complete, find the _Student Enrollment_ site in the list of Inactive Sites.
+Once the import of the solution is complete, find the _Student Enrollment_ site in the list of Inactive Sites and click _Activate_.
 
 ![image](https://github.com/v7herman4/Student-Enrollment-PowerPages/assets/89024016/a945ac65-fad0-457d-9059-5ee196fede78)
 
-
-**Reactivate the Site**
-
-Find the site in _Inactive Sites_. Click _Activate._
 
 ### Update the Site with the latest changes
 
