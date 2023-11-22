@@ -10,7 +10,7 @@
         <LocalizedCollectionName description="Student Enrollments" languagecode="1033" />
       </LocalizedCollectionNames>
       <Descriptions>
-        <Description description="" languagecode="1033" />
+        <Description description="A student enrollment record" languagecode="1033" />
       </Descriptions>
       <attributes>
         <attribute PhysicalName="cr873_AttachmentsToggle">
