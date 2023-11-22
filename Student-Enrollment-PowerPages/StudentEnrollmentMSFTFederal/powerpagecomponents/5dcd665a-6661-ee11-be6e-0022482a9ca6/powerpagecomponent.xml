@@ -1,0 +1,23 @@
+<powerpagecomponent powerpagecomponentid="5dcd665a-6661-ee11-be6e-0022482a9ca6">
+  <content>{
+  "adddescription": false,
+  "attributelogicalname": "msdynce_entityimage_file_name",
+  "controlstyle": 756150001,
+  "descriptionposition": 100000000,
+  "entityform": "5acd665a-6661-ee11-be6e-0022482a9ca6",
+  "fieldisrequired": false,
+  "ignoredefaultvalue": false,
+  "randomizeoptionsetvalues": false,
+  "setvalueonsave": false,
+  "type": 100000000,
+  "useattributedescriptionproperty": true
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>ASP Create Course msdynce_entityimage_file_name</name>
+  <powerpagecomponenttype>16</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

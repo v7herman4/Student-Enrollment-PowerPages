@@ -1,0 +1,20 @@
+<powerpagecomponent powerpagecomponentid="093c665f-6661-ee11-be6e-00224828091f">
+  <content>{
+  "contentdisposition": 756150000,
+  "enabletracking": false,
+  "excludefromsearch": false,
+  "hiddenfromsitemap": false,
+  "parentpageid": "c9ec5562-6661-ee11-be6e-0022482a9f76",
+  "partialurl": "grade-icon.svg",
+  "publishingstateid": "9562e260-6661-ee11-be6e-0022482a998f"
+}</content>
+  <filecontent mimetype="application/octet-stream">grade.svg</filecontent>
+  <iscustomizable>1</iscustomizable>
+  <name>GradeIcon</name>
+  <powerpagecomponenttype>3</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

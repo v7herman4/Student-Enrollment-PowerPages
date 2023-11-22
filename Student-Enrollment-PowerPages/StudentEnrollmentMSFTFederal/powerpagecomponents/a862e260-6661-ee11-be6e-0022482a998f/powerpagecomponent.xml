@@ -1,0 +1,13 @@
+<powerpagecomponent powerpagecomponentid="a862e260-6661-ee11-be6e-0022482a998f">
+  <content>{
+  "value": "adx_name,adx_webroleid"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Webapi/adx_webrole/fields</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

@@ -1,0 +1,24 @@
+<powerpagecomponent powerpagecomponentid="f0d59f3b-ec62-ee11-be6e-0022482a9f76">
+  <content>{
+  "append": true,
+  "appendto": true,
+  "create": true,
+  "delete": false,
+  "entitylogicalname": "annotation",
+  "entityname": "Notes Attachments",
+  "read": true,
+  "scope": 756150000,
+  "write": true,
+  "adx_entitypermission_webrole": [
+    "123c665f-6661-ee11-be6e-00224828091f"
+  ]
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Notes Attachments</name>
+  <powerpagecomponenttype>18</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

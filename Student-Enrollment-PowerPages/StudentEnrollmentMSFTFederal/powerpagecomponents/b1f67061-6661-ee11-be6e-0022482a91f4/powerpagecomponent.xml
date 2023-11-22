@@ -1,0 +1,20 @@
+<powerpagecomponent powerpagecomponentid="b1f67061-6661-ee11-be6e-0022482a91f4">
+  <content>{
+  "right": 2,
+  "scope": 1,
+  "webpageid": "ce62e260-6661-ee11-be6e-0022482a998f",
+  "adx_webpageaccesscontrolrule_webrole": [
+    "123c665f-6661-ee11-be6e-00224828091f",
+    "b4f67061-6661-ee11-be6e-0022482a91f4",
+    "b6f67061-6661-ee11-be6e-0022482a91f4"
+  ]
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Restrict Read on C1 Courses Home</name>
+  <powerpagecomponenttype>10</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

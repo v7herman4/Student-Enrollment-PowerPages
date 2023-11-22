@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<forms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <systemform>
+    <formid>{64e2d778-6fc4-4817-a033-8316365daf20}</formid>
+    <IntroducedVersion>1.0</IntroducedVersion>
+    <FormPresentation>1</FormPresentation>
+    <FormActivationState>1</FormActivationState>
+    <form>
+      <tabs>
+        <tab verticallayout="true" id="{17c18138-54fe-4141-a96e-5e82caf96101}" name="StageStep3" locklevel="0" expanded="true" visible="false" labelid="{222a4c9f-e8e9-4d64-9c4e-9a7debea8e51}">
+          <labels>
+            <label description="Application Submitted" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showbar="false" columns="1" id="{1c51e875-5671-43bd-3c70-be721ddd3aec}" name="StageStep3_section1" labelid="{c7114ca0-5744-4a3d-beb2-fafcef4e9087}">
+                  <labels>
+                    <label description="Application Submitted" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{95a5ca8e-ba26-4904-8a2e-5848cbe2c788}" showlabel="true" visible="true" labelid="{ec1bf46a-e700-4cc2-9890-112ae7f90d56}">
+                        <labels>
+                          <label description="Owner" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment:ownerid" classid="{270bd3db-d9af-4782-9025-509e298dec0a}" datafieldname="ownerid" relationship="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment" isrequired="false" disabled="false" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+        <tab verticallayout="true" id="{38279d8a-599b-4453-9c13-e00af5acb222}" name="StageStep7" locklevel="0" expanded="true" visible="false" labelid="{eb149c83-9bca-4f81-8451-6edb2130a5d5}">
+          <labels>
+            <label description="Documentation Upload" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showbar="false" columns="1" id="{303c56e0-6b39-0775-20ad-f99c9487f580}" name="StageStep7_section1" labelid="{830dff4d-3519-41d9-823a-aeea6a943f6e}">
+                  <labels>
+                    <label description="Documentation Upload" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{980f18c7-5cdd-4a64-9872-5e382cc95b0b}" showlabel="true" visible="true" labelid="{38edba07-38f9-4d0a-831e-fc1eb4551301}">
+                        <labels>
+                          <label description="Owner" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment:ownerid" classid="{270bd3db-d9af-4782-9025-509e298dec0a}" datafieldname="ownerid" relationship="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment" isrequired="false" disabled="false" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+        <tab verticallayout="true" id="{97cf6b51-2c13-45ef-bcc8-4a2d53748671}" name="StageStep11" locklevel="0" expanded="true" visible="false" labelid="{08e611ac-341e-4706-9e2a-f4e0695a64c5}">
+          <labels>
+            <label description="Education Specialist Assignement" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showbar="false" columns="1" id="{2f900393-7713-c894-2354-2f6c96002cb9}" name="StageStep11_section1" labelid="{577fe12e-7ea4-4568-83a5-21bf60067350}">
+                  <labels>
+                    <label description="Education Specialist Assignement" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{8635fdb1-3d5b-469e-9f17-a28a63135f15}" showlabel="true" visible="true" labelid="{f3614e6c-9512-4a10-8d49-e854d89f894e}">
+                        <labels>
+                          <label description="Owner" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment:ownerid" classid="{270bd3db-d9af-4782-9025-509e298dec0a}" datafieldname="ownerid" relationship="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment" isrequired="false" disabled="false" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+        <tab verticallayout="true" id="{d594a9e8-bc9f-4410-b26d-99bcd95855aa}" name="StageStep15" locklevel="0" expanded="true" visible="false" labelid="{79ed868d-07cf-4700-8ac0-515c86e9e2a1}">
+          <labels>
+            <label description="Final Documentation Upload" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showbar="false" columns="1" id="{1b866bf7-3da2-26fc-1f7b-e3d2dec4f5a6}" name="StageStep15_section1" labelid="{63ae6e46-7b8e-4628-967a-075e1f637661}">
+                  <labels>
+                    <label description="Final Documentation Upload" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{95498e97-ef60-40eb-a9c6-aea1a7e58153}" showlabel="true" visible="true" labelid="{f5a7ab81-e4a2-4a98-9cc5-1d5fb12dcf59}">
+                        <labels>
+                          <label description="Owner" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment:ownerid" classid="{270bd3db-d9af-4782-9025-509e298dec0a}" datafieldname="ownerid" relationship="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment" isrequired="false" disabled="false" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+        <tab verticallayout="true" id="{574d53ce-306e-4a87-b927-efd9cc104ae4}" name="StageStep19" locklevel="0" expanded="true" visible="false" labelid="{ce6a523e-c86f-4ea0-9efe-eb7dc387edaf}">
+          <labels>
+            <label description="Student Vendor Setup" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showbar="false" columns="1" id="{51ef43c5-4b57-73a4-663f-f142a914d20b}" name="StageStep19_section1" labelid="{0ae8d7b0-53d3-4ae6-baab-434828f37977}">
+                  <labels>
+                    <label description="Student Vendor Setup" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{aef9d7f7-7ef6-4638-a6ce-ee3089cbccdb}" showlabel="true" visible="true" labelid="{1b49017b-e50f-4092-a1d4-3c6121e572f5}">
+                        <labels>
+                          <label description="Owner" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment:ownerid" classid="{270bd3db-d9af-4782-9025-509e298dec0a}" datafieldname="ownerid" relationship="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment" isrequired="false" disabled="false" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+        <tab verticallayout="true" id="{fc91d5f5-3a8c-4c45-86ff-d8f92668185d}" name="StageStep23" locklevel="0" expanded="true" visible="false" labelid="{2bfd9039-b435-4bdb-b2a2-245146b0609c}">
+          <labels>
+            <label description="Funding Requisition Setup" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showbar="false" columns="1" id="{38a70f87-93db-e47b-1c86-7566ee739596}" name="StageStep23_section1" labelid="{50dabb55-33b0-4ff0-be14-5cfbede2d0e7}">
+                  <labels>
+                    <label description="Funding Requisition Setup" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{ebf119bc-b3c5-4799-a144-3cdece8ea137}" showlabel="true" visible="true" labelid="{c93ad1fb-c6e6-4bbe-a1a1-d5e2128ef633}">
+                        <labels>
+                          <label description="Owner" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment:ownerid" classid="{270bd3db-d9af-4782-9025-509e298dec0a}" datafieldname="ownerid" relationship="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment" isrequired="false" disabled="false" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+        <tab verticallayout="true" id="{51048353-14f8-4545-b410-fe51b7987b39}" name="StageStep27" locklevel="0" expanded="true" visible="false" labelid="{856686dd-ac91-4af4-b162-4d53cf8f2a7c}">
+          <labels>
+            <label description="Requisition Approval" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showbar="false" columns="1" id="{207e34c1-63e5-bcd5-89c2-06499f5cc8c2}" name="StageStep27_section1" labelid="{24636b40-8d4a-446c-9053-024a88b1a4d2}">
+                  <labels>
+                    <label description="Requisition Approval" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{a590868b-1d1b-4a31-b1b8-83b1d2bf01db}" showlabel="true" visible="true" labelid="{fceaecc5-d4d0-4bad-95db-4beb32a872aa}">
+                        <labels>
+                          <label description="Owner" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment:ownerid" classid="{270bd3db-d9af-4782-9025-509e298dec0a}" datafieldname="ownerid" relationship="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment" isrequired="false" disabled="false" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+        <tab verticallayout="true" id="{8529ea61-3e8a-41f9-8bfc-aca837a26107}" name="StageStep31" locklevel="0" expanded="true" visible="false" labelid="{5eca1923-d335-4ef9-b158-bbecf12fb7db}">
+          <labels>
+            <label description="Requisition Processing" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showbar="false" columns="1" id="{caf7f33c-b4be-aa14-0d2f-edc96dcdf85a}" name="StageStep31_section1" labelid="{c7a1f2d1-56d7-4a86-b11f-431c5cee9c81}">
+                  <labels>
+                    <label description="Requisition Processing" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{5caea27a-b676-4103-a7ba-ed6f0bdd0d84}" showlabel="true" visible="true" labelid="{cb02c895-74b3-4d69-a45f-add32afb8eff}">
+                        <labels>
+                          <label description="Owner" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment:ownerid" classid="{270bd3db-d9af-4782-9025-509e298dec0a}" datafieldname="ownerid" relationship="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment" isrequired="false" disabled="false" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+        <tab verticallayout="true" id="{6f654710-a3b5-4d87-8943-d5091caaa341}" name="StageStep35" locklevel="0" expanded="true" visible="false" labelid="{771c5f05-66f0-4479-a0e6-1bcfb503b30c}">
+          <labels>
+            <label description="Payment Sent/Received" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showbar="false" columns="1" id="{5905de12-6ecf-c232-7777-43a04c7442ff}" name="StageStep35_section1" labelid="{1047cc57-9491-4d91-a003-201dae3d0410}">
+                  <labels>
+                    <label description="Payment Sent/Received" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{b9d18808-cea6-4873-a601-65c3522af621}" showlabel="true" visible="true" labelid="{f742e587-86de-4f0d-a7fd-dc8b8fcf22b8}">
+                        <labels>
+                          <label description="Owner" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment:ownerid" classid="{270bd3db-d9af-4782-9025-509e298dec0a}" datafieldname="ownerid" relationship="bpf_cr873_studentenrollment_cr873_ebcistudentenrollment" isrequired="false" disabled="false" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+      </tabs>
+    </form>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>1</CanBeDeleted>
+    <LocalizedNames>
+      <LocalizedName description="Information" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions>
+      <Description description="A form for this entity." languagecode="1033" />
+    </Descriptions>
+  </systemform>
+</forms>

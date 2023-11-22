@@ -1,0 +1,21 @@
+<powerpagecomponent powerpagecomponentid="c3ec5562-6661-ee11-be6e-0022482a9f76">
+  <content>{
+  "disablepagevalidation": false,
+  "displayimageonly": false,
+  "displayorder": 2,
+  "displaypagechildlinks": false,
+  "openinnewwindow": false,
+  "pageid": "abf67061-6661-ee11-be6e-0022482a91f4",
+  "publishingstateid": "9562e260-6661-ee11-be6e-0022482a998f",
+  "robotsfollowlink": true,
+  "weblinksetid": "0c3c665f-6661-ee11-be6e-00224828091f"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>My registrations</name>
+  <powerpagecomponenttype>5</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

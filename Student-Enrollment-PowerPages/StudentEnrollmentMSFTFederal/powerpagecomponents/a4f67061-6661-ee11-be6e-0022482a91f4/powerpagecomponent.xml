@@ -1,0 +1,17 @@
+<powerpagecomponent powerpagecomponentid="a4f67061-6661-ee11-be6e-0022482a91f4">
+  <content>{
+  "display_name": "Secondary Navigation",
+  "publishingstateid": "9562e260-6661-ee11-be6e-0022482a998f"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Secondary Navigation</name>
+  <powerpagecomponenttype>4</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>b8f67061-6661-ee11-be6e-0022482a91f4</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

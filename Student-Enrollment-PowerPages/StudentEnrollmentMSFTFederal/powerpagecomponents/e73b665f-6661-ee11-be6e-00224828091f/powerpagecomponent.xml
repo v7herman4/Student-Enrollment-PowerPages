@@ -1,0 +1,13 @@
+<powerpagecomponent powerpagecomponentid="e73b665f-6661-ee11-be6e-00224828091f">
+  <content>{
+  "value": "Portal Search"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Search/IndexQueryName</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

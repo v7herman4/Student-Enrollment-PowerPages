@@ -1,0 +1,21 @@
+<powerpagecomponent powerpagecomponentid="1d8bbe60-6661-ee11-be6e-0022482a9ca6">
+  <content>{
+  "disablepagevalidation": false,
+  "displayimageonly": false,
+  "displayorder": 12,
+  "displaypagechildlinks": false,
+  "openinnewwindow": false,
+  "pageid": "fea6ba5e-6661-ee11-be6e-0022482803f8",
+  "publishingstateid": "9562e260-6661-ee11-be6e-0022482a998f",
+  "robotsfollowlink": true,
+  "weblinksetid": "a5f67061-6661-ee11-be6e-0022482a91f4"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>View Course Details</name>
+  <powerpagecomponenttype>5</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>d8ec5562-6661-ee11-be6e-0022482a9f76</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>1</statecode>
+  <statuscode>2</statuscode>
+</powerpagecomponent>
